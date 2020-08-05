@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-storyblok-image",
-  "version": "0.2.2",
+  "name": "@swell-energy/gatsby-storyblok-image",
+  "version": "0.3.0",
   "description": "Adds gatsby-image to Gatsby & Storyblok as a content source.",
   "source": "src/index.js",
   "main": "dist/index.js",
@@ -18,11 +18,11 @@
     "gatsby-image",
     "source-storyblok"
   ],
-  "author": "Thom Krupa <thom@bejamas.io>",
-  "homepage": "https://github.com/bejamas/gatsby-storyblok-image#readme",
-  "repository": "https://github.com/bejamas/gatsby-storyblok-image",
+  "author": "Will Graham <wgraham@swellenergy.com>, Thom Krupa <thom@bejamas.io>",
+  "homepage": "https://github.com/swell-wgraham/gatsby-storyblok-image#readme",
+  "repository": "https://github.com/swell-wgraham/gatsby-storyblok-image",
   "bugs": {
-    "url": "https://github.com/bejamas/gatsby-storyblok-image/issues"
+    "url": "https://github.com/swell-wgraham/gatsby-storyblok-image/issues"
   },
   "license": "MIT",
   "dependencies": {},
